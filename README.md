@@ -23,7 +23,7 @@ This project demonstrates a local chat UI with username coloring, dark/light mod
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/yourusername/react-chat-app.git
+git clone https://github.com/BrandonPMcBride/react-chat-app.git
 cd react-chat-app
 npm install
 ```
