@@ -5,11 +5,11 @@ This project demonstrates a local chat UI with username coloring, dark/light mod
 
 ## Features
 
-- 🌗 Dark and light mode toggle (persists in localStorage)
-- 🎨 Unique color for each username (using `color-hash`)
-- 💬 Add and delete messages
-- 👤 Username input with welcome message
-- 🖼️ Themed backgrounds for dark/light modes
+- Dark and light mode toggle (persists in localStorage)
+- Unique color for each username (using `color-hash`)
+- Add and delete messages
+- Username input with welcome message
+- Themed backgrounds for dark/light modes
 
 ## Getting Started
 
@@ -77,4 +77,4 @@ MIT
 
 ---
 
-Made with ❤️ using [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/)
+Made with [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/)
